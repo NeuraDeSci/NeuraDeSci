@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/images/logo.svg" alt="NeuraDeSci Logo" width="200"/>
+  <img src="public/images/neuradesci-scifi-logo.svg" alt="NeuraDeSci Logo" width="200"/>
 </p>
 
 <h1 align="center">NeuraDeSci: Decentralized Neuroscience Research Platform</h1>
