@@ -1,26 +1,8 @@
-<p align="center">
-  <img src="public/images/neuradesci-scifi-logo.svg" alt="NeuraDeSci Logo" width="200"/>
-</p>
+# NeuraDeSci
 
-<h1 align="center">NeuraDeSci: Decentralized Neuroscience Research Platform</h1>
+![NeuraDeSci Logo](public/images/neuradesci-scifi-logo.svg)
 
-<p align="center">
-  <a href="https://github.com/NeuraDeSci/NeuraDeSci/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/NeuraDeSci/NeuraDeSci" alt="License">
-  </a>
-  <a href="https://github.com/NeuraDeSci/NeuraDeSci/issues">
-    <img src="https://img.shields.io/github/issues/NeuraDeSci/NeuraDeSci" alt="Issues">
-  </a>
-  <a href="https://www.neuradesci-ai.xyz/">
-    <img src="https://img.shields.io/badge/website-neuradesci--ai.xyz-blue" alt="Website">
-  </a>
-  <a href="https://github.com/NeuraDeSci/NeuraDeSci/stargazers">
-    <img src="https://img.shields.io/github/stars/NeuraDeSci/NeuraDeSci" alt="Stars">
-  </a>
-  <a href="https://github.com/NeuraDeSci/NeuraDeSci/network/members">
-    <img src="https://img.shields.io/github/forks/NeuraDeSci/NeuraDeSci" alt="Forks">
-  </a>
-</p>
+NeuraDeSci is a decentralized platform for neuroscience research data management, leveraging blockchain technology to enable secure and transparent sharing of research data.
 
 ## Project Overview
 
@@ -88,70 +70,40 @@ NeuraDeSci employs a multi-layer technical architecture:
 
 ## Roadmap
 
-### Phase 1: Foundation Building (2023 Q4 - 2024 Q1)
+### Phase 1: Foundation Building (2025 Q1 - Q2)
 
-- [x] Complete proof of concept and whitepaper
-- [x] Assemble core team and advisor network
-- [x] Develop platform MVP
+- [ ] Complete proof of concept and whitepaper
+- [ ] Assemble core team and advisor network
+- [ ] Develop platform MVP
 - [ ] Establish initial partnerships
 
-### Phase 2: Testnet (2024 Q2 - Q4)
+### Phase 2: Testnet (2025 Q3 - 2026 Q1)
 
 - [ ] Launch testnet and early user projects
 - [ ] Complete core smart contract development and audits
 - [ ] Implement data sharing protocols
 - [ ] Develop collaboration tools and user interface
 
-### Phase 3: Mainnet Launch (2025 Q1 - Q2)
+### Phase 3: Mainnet Launch (2026 Q2 - Q3)
 
 - [ ] Mainnet goes live
 - [ ] Token generation event
 - [ ] Launch first research grant programs
 - [ ] Establish neuroscience DAO
 
-### Phase 4: Ecosystem Expansion (2025 Q3 - 2026 Q1)
+### Phase 4: Ecosystem Expansion (2026 Q4 - 2027 Q2)
 
 - [ ] Integrate AI analysis tools
 - [ ] Expand to more neuroscience sub-fields
 - [ ] Launch cross-disciplinary collaboration projects
 - [ ] Develop mobile applications and APIs
 
-### Phase 5: Global Expansion (2026 Q2 and beyond)
+### Phase 5: Global Expansion (2027 Q3 and beyond)
 
 - [ ] Expand to more languages and regions
 - [ ] Establish regional collaboration hubs
 - [ ] Develop advanced research tools and analytics platforms
 - [ ] Implement more sophisticated DAO governance mechanisms
-
-## Current Progress
-
-- Completed proof of concept and project planning
-- Whitepaper draft completed
-- Initial technical architecture design completed
-- Engaging with potential research partners
-
-## Join the Community
-
-- Official website: [https://www.neuradesci-ai.xyz/](https://www.neuradesci-ai.xyz/)
-- X (Twitter): [@NeuraDeSci](https://x.com/NeuraDeSci)
-- GitHub: [NeuraDeSci](https://github.com/NeuraDeSci/NeuraDeSci)
-
-## FAQ
-
-### What is DeSci (Decentralized Science)?
-DeSci stands for Decentralized Science, using Web3 technologies to transform how scientific research is conducted, funded, and shared. It aims to create a more open, transparent, and accessible scientific ecosystem.
-
-### How does NeuraDeSci protect sensitive research data?
-We employ advanced encryption methods and differential privacy techniques to ensure sensitive data is protected. Researchers can set granular access controls to determine who can access their data and under what conditions.
-
-### How can I participate in the NeuraDeSci ecosystem?
-Researchers can participate by contributing data, participating in collaborative research, reviewing peer work, or participating in DAO governance. Non-technical participants can also engage by supporting and promoting the project.
-
-### What is the utility of the NDS token?
-NDS tokens are used for platform governance voting, incentivizing research contributions, accessing premium research tools and services, and supporting the research funding pool.
-
-### What advantages does NeuraDeSci offer compared to traditional scientific platforms?
-NeuraDeSci provides faster research publication channels, transparent peer reviews, direct research incentives, cross-disciplinary collaboration opportunities, and immutable records of research contributions.
 
 ## Technology Stack
 
@@ -206,16 +158,26 @@ cd ..
 npm run dev
 ```
 
-5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Contributing
-
-We welcome contributions to NeuraDeSci! Please see our [contributing guidelines](CONTRIBUTING.md) for more information.
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
----
+Copyright (c) 2025 NeuraDeSci
 
-*NeuraDeSci - Unlocking the Brain's Code, Building Science's Future* 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE. 
