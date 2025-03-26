@@ -1,0 +1,47 @@
+# Hardhat files
+/artifacts
+/cache
+/typechain
+/typechain-types
+
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Next.js
+/.next/
+/out/
+
+# Production
+/build
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.DS_Store
+*.pem
+coverage
+coverage.json
+typechain
+.idea
+.vscode
+
+# Deployment
+deployment-info.json
+
+# SSH Keys
+key
+key.pub 
