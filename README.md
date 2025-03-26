@@ -1,4 +1,26 @@
-# NeuraDeSci: Decentralized Neuroscience Research Platform
+<p align="center">
+  <img src="public/images/logo.svg" alt="NeuraDeSci Logo" width="200"/>
+</p>
+
+<h1 align="center">NeuraDeSci: Decentralized Neuroscience Research Platform</h1>
+
+<p align="center">
+  <a href="https://github.com/NeuraDeSci/NeuraDeSci/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/NeuraDeSci/NeuraDeSci" alt="License">
+  </a>
+  <a href="https://github.com/NeuraDeSci/NeuraDeSci/issues">
+    <img src="https://img.shields.io/github/issues/NeuraDeSci/NeuraDeSci" alt="Issues">
+  </a>
+  <a href="https://www.neuradesci-ai.xyz/">
+    <img src="https://img.shields.io/badge/website-neuradesci--ai.xyz-blue" alt="Website">
+  </a>
+  <a href="https://github.com/NeuraDeSci/NeuraDeSci/stargazers">
+    <img src="https://img.shields.io/github/stars/NeuraDeSci/NeuraDeSci" alt="Stars">
+  </a>
+  <a href="https://github.com/NeuraDeSci/NeuraDeSci/network/members">
+    <img src="https://img.shields.io/github/forks/NeuraDeSci/NeuraDeSci" alt="Forks">
+  </a>
+</p>
 
 ## Project Overview
 
@@ -110,10 +132,9 @@ NeuraDeSci employs a multi-layer technical architecture:
 
 ## Join the Community
 
-- Official website: [https://neuradesci.io](https://neuradesci.io) (coming soon)
-- Twitter: [@NeuraDeSci](https://twitter.com/NeuraDeSci)
-- Discord: [NeuraDeSci Community](https://discord.gg/neuradesci)
-- GitHub: [NeuraDeSci](https://github.com/neuradeSci)
+- Official website: [https://www.neuradesci-ai.xyz/](https://www.neuradesci-ai.xyz/)
+- X (Twitter): [@NeuraDeSci](https://x.com/NeuraDeSci)
+- GitHub: [NeuraDeSci](https://github.com/NeuraDeSci/NeuraDeSci)
 
 ## FAQ
 
@@ -131,10 +152,6 @@ NDS tokens are used for platform governance voting, incentivizing research contr
 
 ### What advantages does NeuraDeSci offer compared to traditional scientific platforms?
 NeuraDeSci provides faster research publication channels, transparent peer reviews, direct research incentives, cross-disciplinary collaboration opportunities, and immutable records of research contributions.
-
-## Contact Us
-
-For partnerships, investments, or other inquiries, please contact: info@neuradesci.io
 
 ---
 
