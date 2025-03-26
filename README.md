@@ -95,28 +95,28 @@ NeuraDeSci employs a multi-layer technical architecture:
 - [x] Develop platform MVP
 - [ ] Establish initial partnerships
 
-### Phase 2: Testnet (2024 Q2 - Q3)
+### Phase 2: Testnet (2024 Q2 - Q4)
 
 - [ ] Launch testnet and early user projects
 - [ ] Complete core smart contract development and audits
 - [ ] Implement data sharing protocols
 - [ ] Develop collaboration tools and user interface
 
-### Phase 3: Mainnet Launch (2024 Q4 - 2025 Q1)
+### Phase 3: Mainnet Launch (2025 Q1 - Q2)
 
 - [ ] Mainnet goes live
 - [ ] Token generation event
 - [ ] Launch first research grant programs
 - [ ] Establish neuroscience DAO
 
-### Phase 4: Ecosystem Expansion (2025 Q2 - Q4)
+### Phase 4: Ecosystem Expansion (2025 Q3 - 2026 Q1)
 
 - [ ] Integrate AI analysis tools
 - [ ] Expand to more neuroscience sub-fields
 - [ ] Launch cross-disciplinary collaboration projects
 - [ ] Develop mobile applications and APIs
 
-### Phase 5: Global Expansion (2026 and beyond)
+### Phase 5: Global Expansion (2026 Q2 and beyond)
 
 - [ ] Expand to more languages and regions
 - [ ] Establish regional collaboration hubs
