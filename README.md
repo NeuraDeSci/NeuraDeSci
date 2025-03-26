@@ -153,6 +153,69 @@ NDS tokens are used for platform governance voting, incentivizing research contr
 ### What advantages does NeuraDeSci offer compared to traditional scientific platforms?
 NeuraDeSci provides faster research publication channels, transparent peer reviews, direct research incentives, cross-disciplinary collaboration opportunities, and immutable records of research contributions.
 
+## Technology Stack
+
+- **Frontend**: React.js, Next.js
+- **Smart Contracts**: Solidity
+- **Decentralized Storage**: IPFS
+- **High-Performance Core**: Rust (WebAssembly)
+- **Styling**: Tailwind CSS
+
+## Features
+
+- Secure storage and sharing of neuroscience research data
+- Blockchain-based data provenance and access control
+- Decentralized identity for researchers
+- High-performance data processing with Rust and WebAssembly
+- Interactive visualizations for neural data
+
+## Rust Integration
+
+The project now includes high-performance Rust components that are compiled to WebAssembly, enabling:
+
+- Efficient neural data processing directly in the browser
+- Secure cryptographic operations
+- Decentralized storage via IPFS
+- Integration with blockchain technology
+- Cross-platform compatibility
+
+For more information on the Rust components, see the [rust-components README](rust-components/README.md).
+
+## Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/NeuraDeSci/NeuraDeSci.git
+cd NeuraDeSci
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Build the Rust components (requires Rust and wasm-pack):
+```bash
+cd rust-components
+./build.sh
+cd ..
+```
+
+4. Run the development server:
+```bash
+npm run dev
+```
+
+5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Contributing
+
+We welcome contributions to NeuraDeSci! Please see our [contributing guidelines](CONTRIBUTING.md) for more information.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
 
 *NeuraDeSci - Unlocking the Brain's Code, Building Science's Future* 
